@@ -1,0 +1,11 @@
+﻿  Stack.cpp
+  Scheduler.cpp
+  Queue.cpp
+  Node.cpp
+  main-test.cpp
+f:\stack-queue-tree-cpu-scheduling\stack queue tree cpu scheduling\main-test.cpp(259): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BinarySearchTree.cpp
+  Generating Code...
+f:\stack-queue-tree-cpu-scheduling\stack queue tree cpu scheduling\binarysearchtree.cpp(126): warning C4715: 'BinarySearchTree::deleteMax': not all control paths return a value
+  Stack Queue Tree Cpu Scheduling.vcxproj -> F:\Stack-Queue-Tree-Cpu-Scheduling\Debug\Stack Queue Tree Cpu Scheduling.exe
+  Stack Queue Tree Cpu Scheduling.vcxproj -> F:\Stack-Queue-Tree-Cpu-Scheduling\Debug\Stack Queue Tree Cpu Scheduling.pdb (Partial PDB)
